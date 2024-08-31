@@ -18,7 +18,7 @@ The data is scraped concurrently for improved performance and saved in batches t
 2. **Clone the repository:**
     ```bash
     git clone https://github.com/rawcsav/ENAOScrape.git
-    cd E
+    cd ENAOScrape
     ```
 
 3. **Install dependencies:**
