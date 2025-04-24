@@ -1,6 +1,7 @@
 module ENAOScrape
 
 go 1.22
+toolchain go1.23.7
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.2
@@ -10,5 +11,5 @@ require (
 
 require (
 	github.com/andybalholm/cascadia v1.3.2 // indirect
-	golang.org/x/net v0.24.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
 )
